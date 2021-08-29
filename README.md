@@ -1,2 +1,3 @@
-# REACTBLOG_Q
- A simple React Blog
+# REACT SAMPLE BLOG
+
+A simple React Blog with Firebase storage
